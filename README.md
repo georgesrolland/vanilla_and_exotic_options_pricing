@@ -1,1 +1,3 @@
-# vanilla_and_exotic_options_pricing
+# Vanilla and Exotic Options Pricing
+
+We use Monte Carlo methods to assess vanilla and exotic options.
